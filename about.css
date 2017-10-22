@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+text-align: center;
+font-family: 'Roboto', sans-serif;}
+
+#title{
+color: #00A1F1;
+}    
+
+h1 {
+font-size: 52px;
+text-align: left;
+margin-left: .5em;
+margin-top: .5em;
+}
+
+#bar {
+font-size: 36px;
+color: #EA4335;
+border-top: 1px #FFBB00 solid;
+border-bottom: 1px #FFBB00 solid;
+
+}
+
+#go {
+padding: 3em;
+}
+
+#about {
+padding: 3em;
+}
+
+#contact {
+padding: 3em;
+}
+
+#about-text{
+color: #34A853;
+font-size: 22px;
+text-align: left;
+padding-left: 1.5em;
+}
+
+#what-it-is {
+font-size: 28px;
+color: #FFBB00;
+text-align: left;
+padding-left: 1em;
+}
+
+#how-it-works-title {
+font-size: 28px;
+color: #FFBB00;
+text-align: left;
+padding-left: 1em;
+}
+
+#how-it-works{
+color: #34A853;
+font-size: 22px;
+text-align: left;
+padding-left: 1.5em;
+}
+
+#about-the-team-title {
+    font-size: 28px;
+    color: #FFBB00;
+    text-align: left;
+    padding-left: 1em;
+}
+
+#about-the-team {
+    color: #34A853;;
+    font-size: 22px;
+    text-align: left;
+    padding-left: 1.5em;
+}
